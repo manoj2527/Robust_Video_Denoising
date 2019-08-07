@@ -1,7 +1,7 @@
 # Robust_Video_Denoising
 Course Project
 
-Team:-
-Manoj(160050075)
+Team:- <br>
+Manoj(160050075) <br>
 Vignesh Reddy Konda(160050090)
 
